@@ -192,7 +192,7 @@
 }
 
 #indepth_cover .indepth_parallax_back{
-	background: url(../images/Portada.jpg);
+	background: url(../images/portada.jpg);
 	background-size: auto 100%;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -491,9 +491,10 @@ color: #878787;
 
 /****DINAMICO****/
 
-.indepth_break .indepth_parallax_back{
-background-size: 1920px auto;
+.indepth_break .indepth_parallax_back {
+background-size: cover;
 }
+
 
 
 #indepth_break_1 .indepth_parallax_back{
