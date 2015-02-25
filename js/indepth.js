@@ -1,6 +1,6 @@
 var disqus_shortname = 'juanfutbol';
 var disqus_identifier;
-var disqus_url="becebde4-0d5b-4345-b62b-403c38d81082";
+var disqus_url="b16adae6-ff03-4e47-88d4-9fc18da1a507";
 var disqus_number_c=2;
 var disqus_per_page=3;
 var tamaño_total=1920;
