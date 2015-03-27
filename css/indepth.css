@@ -346,7 +346,6 @@
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: 50% 0px;
-
 }
 
 .indepth_break .indepth_text_container{
@@ -370,7 +369,6 @@
 	font-weight: 700;
 }
 
-
 .indepth_parallax_back {
 	height: 100%;
 	background-size: cover;
@@ -380,7 +378,6 @@
 	background-attachment: fixed;
 	background-position: 50% 50%;
 }
-
 
 .indepth_image_left{
 	float: left;
@@ -398,8 +395,8 @@
 .indepth_image_r{
 	float: right ;
 	width: 350px;
-margin-left: 20px;
-margin-top: 15px;
+	margin-left: 20px;
+	margin-top: 15px;
 }
 
 .indepth_image_r img{
